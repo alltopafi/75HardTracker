@@ -57,8 +57,11 @@ Here are screenshots of the 75 Hard Tracker user experience:
 #### 2. Create Account / Register Panel
 ![Register Screen](./docs/screenshots/register.png)
 
-#### 3. Main Dashboard & Day Checklist Modal
+#### 3. Main Dashboard Progress Board
 ![Dashboard Screen](./docs/screenshots/dashboard.png)
+
+#### 4. Day Checklist Modal (for marking off tasks)
+![Checklist Modal](./docs/screenshots/checklist.png)
 
 ---
 
